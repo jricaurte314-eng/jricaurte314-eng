@@ -22,7 +22,8 @@ I’m also pursuing an **M.Sc. in Data Science** at *Pontificia Universidad Cat�
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [📚 Recommendation System – Vertex AI](./03-recommendation-system-vertexai) | End-to-end recommendation model for course personalization and engagement improvement. | Python, SQL, BigQuery, Vertex AI, MLflow |
-| [📊 Product Analytics Dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for real-time monitoring of learning KPIs and engagement metrics. | Power BI, SQL, DAX |
+| [📊 Tickets dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for analysis of helpdesk metrics, KPI's and measurement of client satisfaction . | Power BI, SQL, DAX, Excel |
+| [📊 Product analysis dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for analysis of home page interaction to managment team . | Power BI, SQL, DAX |
 | [🧮 Psychometric Analysis Pipeline](./04-psychometrics-item-analysis) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
 | [⚙️ ETL Pipeline Automation](./01-data-pipelines-etl-bigquery) | Automated pipeline for ingesting and transforming +500k monthly records. | Python, SQL, BigQuery |
 | [📈 Forecasting Learning Metrics](./05-forecasting-learning-metrics) | Time series models to predict user engagement trends in e-learning platforms. | Python, Prophet, Power BI |
