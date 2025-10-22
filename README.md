@@ -21,7 +21,7 @@ I’m also pursuing an **M.Sc. in Data Science** at *Pontificia Universidad Cat�
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [📚 Recommendation System – Vertex AI](https://github.com/jricaurte314-eng/Reccomendation-system-vertexAI) | End-to-end recommendation model for course personalization and engagement improvement. | Python, SQL, BigQuery, Vertex AI, MLflow |
+| [📚 Recommendation System – Vertex AI & ILP algorithms](https://github.com/jricaurte314-eng/Reccomendation-system-vertexAI) | End-to-end recommendation model for course personalization and engagement improvement. | Python, SQL, BigQuery, Vertex AI, MLflow |
 | [📊 Tickets dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for analysis of helpdesk metrics, KPI's and measurement of client satisfaction . | Power BI, SQL, DAX, Excel |
 | [📈 Automated skills measurement](./05-forecasting-learning-metrics) | End-to-end measurement model to test perception of soft and hard skills | Python, Prophet, Power BI 
 | [📊 Product analysis dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for analysis of home page interaction to managment team . | Power BI, SQL, DAX |
