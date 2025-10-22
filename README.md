@@ -9,9 +9,9 @@
 
 I’m a **Behavioral Data Scientist** passionate about transforming complex data into actionable insights that drive learning, engagement, and product performance.  
 
-With a background in **Psychology** and hands-on experience in **data analytics, machine learning, and cloud-based pipelines**, I bridge human behavior understanding with advanced data science techniques.  
+With a background in **Psychology** and hands-on experience in **data analytics, machine learning and cloud-based pipelines**, I bridge human behavior understanding with advanced data science techniques.  
 
-Currently, I work at **UBITS** developing **People & Product Analytics solutions**, including automated ETL/ELT pipelines, interactive dashboards, and machine learning models for personalized recommendations using **Vertex AI**.  
+Currently, I work at **UBITS** developing **People & Product Analytics solutions**, including automated ETL/ELT pipelines, interactive dashboards and machine learning models for personalized recommendations using **Vertex AI**.  
 
 I’m also pursuing an **M.Sc. in Data Science** at *Pontificia Universidad Católica de Chile*.  
 
