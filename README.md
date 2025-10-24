@@ -21,10 +21,10 @@ I’m also pursuing an **M.Sc. in Data Science** at *Pontificia Universidad Cat�
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [📚 Recommendation System – Vertex AI & ILP algorithms](https://github.com/jricaurte314-eng/Reccomendation-system-vertexAI) | End-to-end recommendation model for course personalization and engagement improvement. | Python, SQL, BigQuery, Vertex AI, MLflow |
+| [📚 Recommendation System with ILP algorithms](https://github.com/jricaurte314-eng/Reccomendation-system-vertexAI) | End-to-end recommendation model for course personalization and engagement improvement. | Python, SQL, BigQuery, Vertex AI, MLflow |
 | [📊 Tickets dashboard](https://github.com/jricaurte314-eng/Tickets_dashboard/) | Power BI dashboard for analysis of helpdesk metrics, KPI's and measurement of client satisfaction . | Power BI, SQL, DAX, Excel |
-| [🧠 Skill Mapping & Diagnostic System – Vertex AI & Gemini API](https://github.com/jricaurte314-eng/Skill-Mapping-Diagnostic-System-Vertex-AI-Embeddings-) | End-to-end measurement model to test perception of soft and hard skills | Python, Java, Power BI, Gemini, MLflow
-| [📊 Product analysis dashboard](./02-product-analytics-dashboard-powerbi) | Power BI dashboard for analysis of home page interaction to managment team . | Power BI, SQL, DAX |
+| [🧠 Skill Mapping & Diagnostic System](https://github.com/jricaurte314-eng/Skill-Mapping-Diagnostic-System-Vertex-AI-Embeddings-) | End-to-end measurement model to test perception of soft and hard skills | Python, Java, Power BI, Gemini, MLflow
+| [📊 Landing Page Product Analytics ](https://github.com/jricaurte314-eng/Product_analysis_dashboard) | Power BI dashboard for analysis of home page interaction to managment team . | Power BI, SQL, DAX,  AWS, Statistical Experimentation|
 | [🧮 Psychometric Analysis Pipeline](./04-psychometrics-item-analysis) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
 | [🧮 ASR investigation](./04-psychometrics-item-analysis) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
 | [⚙️ ETL Pipeline Automation](./01-data-pipelines-etl-bigquery) | Automated pipeline for ingesting and transforming +500k monthly records. | Python, SQL, BigQuery |
