@@ -25,11 +25,8 @@ I’m also pursuing an **M.Sc. in Data Science** at *Pontificia Universidad Cat�
 | [📊 Helpdesk dashboard](https://github.com/jricaurte314-eng/Tickets_dashboard/) | Power BI dashboard for analysis of helpdesk metrics, KPI's and measurement of client satisfaction . | Power BI, SQL, DAX, Excel |
 | [🧠 Skill mapping & diagnostic system](https://github.com/jricaurte314-eng/Skill-Mapping-Diagnostic-System-Vertex-AI-Embeddings-) | End-to-end measurement model to test perception of soft and hard skills | Python, Java, Power BI, Gemini, MLflow
 | [🎬 Landing page product analytics ](https://github.com/jricaurte314-eng/Product_analysis_dashboard) | Power BI dashboard for analysis of home page interaction to managment team . | Power BI, SQL, DAX,  AWS, Statistical Experimentation|
-| [🧮 Psychometric Analysis Pipeline](./04-psychometrics-item-analysis) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
-| [🧮 ASR investigation](./04-psychometrics-item-analysis) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
+| [🧮 Psychometric Analysis Pipeline](https://github.com/jricaurte314-eng/Psychometric-item-pipeline-optimization) | Statistical validation of assessment items and psychometric metrics automation. | R, Python, Pandas |
 | [⚙️ ETL Pipeline Automation](./01-data-pipelines-etl-bigquery) | Automated pipeline for ingesting and transforming +500k monthly records. | Python, SQL, BigQuery |
-| [📈 Forecasting Learning Metrics](./05-forecasting-learning-metrics) | Time series models to predict user engagement trends in e-learning platforms. | Python, Prophet, Power BI |
-
 ---
 
 ## 🧰 Technical Skills  
